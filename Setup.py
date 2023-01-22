@@ -14,7 +14,7 @@ setup(
     description="This is a Python library for handling problems related to Multiple Criteria Decision Making(MCDM)",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/KritiBhatnagar/TOPSIS_KRITI_102003628",
     author="Kriti Bhatnagar",
     author_email="kritimrt30@gmail.com",
     license="MIT",
